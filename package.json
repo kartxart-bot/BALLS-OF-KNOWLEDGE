@@ -1,0 +1,7 @@
+{
+  "name": "LORDRYUGA",
+  "version": "1.0.0",
+  "description": "LORDRYUGA Voice Kernel Module",
+  "main": "index.js",
+  "private": true
+}
